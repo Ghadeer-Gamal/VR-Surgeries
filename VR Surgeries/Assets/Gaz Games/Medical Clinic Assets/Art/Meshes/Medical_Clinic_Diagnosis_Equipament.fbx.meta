@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 9e102103d239f6c47ad6248f260d2715
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cotton_Balls
+    100002: Cube
+    100004: //RootNode
+    100006: Gel_1
+    100008: Gel_2
+    100010: Nasal_Speculum
+    100012: Ophthalmoscope
+    100014: Otoscope
+    100016: Pot
+    100018: Pot_1
+    100020: Pressure_Gauge_Arm_Support
+    100022: Pressure_Gauge_Basis
+    100024: Reflexology_Hammer
+    100026: Stethoscope_Ear
+    100028: Stethoscope_Tip
+    100030: Thermometer
+    100032: Tongue_Depressor
+    400000: Cotton_Balls
+    400002: Cube
+    400004: //RootNode
+    400006: Gel_1
+    400008: Gel_2
+    400010: Nasal_Speculum
+    400012: Ophthalmoscope
+    400014: Otoscope
+    400016: Pot
+    400018: Pot_1
+    400020: Pressure_Gauge_Arm_Support
+    400022: Pressure_Gauge_Basis
+    400024: Reflexology_Hammer
+    400026: Stethoscope_Ear
+    400028: Stethoscope_Tip
+    400030: Thermometer
+    400032: Tongue_Depressor
+    2100000: Equipaments
+    2300000: Cotton_Balls
+    2300002: Cube
+    2300004: Gel_1
+    2300006: Gel_2
+    2300008: Nasal_Speculum
+    2300010: Ophthalmoscope
+    2300012: Otoscope
+    2300014: Pot
+    2300016: Pot_1
+    2300018: Pressure_Gauge_Arm_Support
+    2300020: Pressure_Gauge_Basis
+    2300022: Reflexology_Hammer
+    2300024: Stethoscope_Ear
+    2300026: Stethoscope_Tip
+    2300028: Thermometer
+    2300030: Tongue_Depressor
+    3300000: Cotton_Balls
+    3300002: Cube
+    3300004: Gel_1
+    3300006: Gel_2
+    3300008: Nasal_Speculum
+    3300010: Ophthalmoscope
+    3300012: Otoscope
+    3300014: Pot
+    3300016: Pot_1
+    3300018: Pressure_Gauge_Arm_Support
+    3300020: Pressure_Gauge_Basis
+    3300022: Reflexology_Hammer
+    3300024: Stethoscope_Ear
+    3300026: Stethoscope_Tip
+    3300028: Thermometer
+    3300030: Tongue_Depressor
+    4300000: Otoscope
+    4300002: Tongue_Depressor
+    4300004: Ophthalmoscope
+    4300006: Pressure_Gauge_Arm_Support
+    4300008: Pressure_Gauge_Basis
+    4300010: Stethoscope_Ear
+    4300012: Stethoscope_Tip
+    4300014: Reflexology_Hammer
+    4300016: Nasal_Speculum
+    4300018: Thermometer
+    4300020: Cube
+    4300022: Gel_2
+    4300024: Gel_1
+    4300026: Cotton_Balls
+    4300028: Pot_1
+    4300030: Pot
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 15
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
